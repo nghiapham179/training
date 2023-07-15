@@ -13,9 +13,10 @@ Training for first job:
 10. Compairsion C/C++ with Python Language?
 11. What's computer vision?
 12. What's lable tools?
-13. What's lableImg tools?
+13. What's labelImg tools?
 14. What's Yolo AI models ?
 15. How deploy AI models ?
+16. What's IDE?
 
 
 
