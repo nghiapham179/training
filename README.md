@@ -22,7 +22,4 @@ Training for first job:
 
 Deadline : 1/8/2023
 
-  
-
-
-
+Everyday, you have to answer some question. I will check your answer everyday and ask you some question that concert with youor answer.
