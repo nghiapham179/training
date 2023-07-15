@@ -8,7 +8,7 @@ Training for first job:
    - D. CPU : < central processing unit > a extremly important unit which processing all the program in your computer like caculating, and also called the brain of the computer
    - E. RAM : < Random access memory > a component which storage data and easy to access but low spaces
    - F. Hard drive : same with RAM but with huge spaces of stroge and slow access to the data
-   - G. GPU < Graphic process unit > the unit that turn Binary sequence into different bit to display on your monitor
+   - G. GPU < Graphic process unit > the unit that turn Binary sequence into different pixels to display on your monitor
 
 
 
