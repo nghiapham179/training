@@ -18,3 +18,6 @@ Training for first job:
 15. How deploy AI models ?
 
 
+Deadline : 1/8/2023
+
+
