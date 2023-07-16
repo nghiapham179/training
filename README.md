@@ -13,6 +13,14 @@ Training for first job:
 
 
 2. What's chat GPT?
+   - chat GPT is a artifacial intelligent chat box which develop by Open AI
+   - ChatGPT is a language model developed by OpenAI that interacts in a conversational way.
+   - Chat GPT can modify information in many category
+   - Use Nerual network architecture to respond user
+   -  
+
+
+
 3. What's google BAR?
 4. Diffirence between the chat GPT and google BAR ?
 5. What's AI?
