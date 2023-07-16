@@ -17,7 +17,7 @@ Training for first job:
    - ChatGPT is a language model developed by OpenAI that interacts in a conversational way.
    - Chat GPT can modify information in many category
    - Use Nerual network architecture to respond user
-   -  
+   - It is a state of NLP < natural prossesing language > which is a group of AI give the bot ability to read and answear human language 
 
 
 
