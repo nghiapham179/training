@@ -22,6 +22,9 @@ Training for first job:
 
 
 3. What's google BARD?
+ - Bard is a large language model (LLM) chatbot developed by Google AI. It is a machine learning model that has been trained on a massive dataset of text and code. Bard can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way 
+
+
 4. Diffirence between the chat GPT and google BAR ?
 5. What's AI?
 6. What's GITHUB and GIT?
