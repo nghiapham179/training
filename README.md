@@ -21,7 +21,7 @@ Training for first job:
 
 
 
-3. What's google BAR?
+3. What's google BARD?
 4. Diffirence between the chat GPT and google BAR ?
 5. What's AI?
 6. What's GITHUB and GIT?
