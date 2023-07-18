@@ -26,6 +26,15 @@ Training for first job:
 
 
 4. Diffirence between the chat GPT and google BAR ?
+  - simularity :+ both are AI designed to answear and solve the problem that gave by the user
+  - Difference : the first difference is Data resource when ChatGPT is permanent updated by developer, on the other hand BARD Data is flexiable and updated constantly
+  - the second one is using case when Chat GPT is designed to answear particular question, Bard is design to augment GG's searvh engine
+
+    
+   
+
+
+
 5. What's AI?
 6. What's GITHUB and GIT?
 7. What's Python language?
