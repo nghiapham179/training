@@ -30,12 +30,13 @@ Training for first job:
   - Difference : the first difference is Data resource when ChatGPT is permanent updated by developer, on the other hand BARD Data is flexiable and updated constantly
   - the second one is using case when Chat GPT is designed to answear particular question, Bard is design to augment GG's searvh engine
 
-    
-   
-
 
 
 5. What's AI?
+ - AI < artificial intelligence > is a state of computer which machine can learn understand and solve problem by the data the be given
+ - is built by complex algorithms mathematical function
+
+
 6. What's GITHUB and GIT?
 7. What's Python language?
 8. What's Clould service?
