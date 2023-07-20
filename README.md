@@ -38,6 +38,10 @@ Training for first job:
 
 
 6. What's GITHUB and GIT?
+ - GIT is system that manage your source code and able 2 or more people code together and warnning the conflict code
+
+
+
 7. What's Python language?
 8. What's Clould service?
 9. What's C/C++ language?
