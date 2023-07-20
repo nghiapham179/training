@@ -39,6 +39,7 @@ Training for first job:
 
 6. What's GITHUB and GIT?
  - GIT is system that manage your source code and able 2 or more people code together and warnning the conflict code
+ - GITHUB is the forum for the coder which can easily changing or seeing another one code
 
 
 
