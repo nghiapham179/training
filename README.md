@@ -44,6 +44,10 @@ Training for first job:
 
 
 7. What's Python language?
+- Python is the word fastest language and the most popular in the world among the software engineers, mathematics,Data analyts,....
+- python can build web, mobiles and desktops app or even hacking
+- between python and the another coding language, python is simmple and friendly for beginer
+
 8. What's Clould service?
 9. What's C/C++ language?
 10. Compairsion C/C++ with Python Language?
