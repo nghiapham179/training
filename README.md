@@ -49,6 +49,13 @@ Training for first job:
 - between python and the another coding language, python is simmple and friendly for beginer
 
 8. What's Clould service?
+
+
+
+A cloud service is a type of internet-based computing that provides shared computer processing resources and data to computers and other devices on demand. It is a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources  applications, and services)
+
+
+
 9. What's C/C++ language?
 10. Compairsion C/C++ with Python Language?
 11. What's computer vision?
