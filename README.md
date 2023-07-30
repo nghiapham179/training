@@ -57,13 +57,18 @@ A cloud service is a type of internet-based computing that provides shared compu
 
 
 9. What's C/C++ language?
-10. Compairsion C/C++ with Python Language?
-11. What's computer vision?
-12. What's lable tools?
-13. What's labelImg tools?
-14. What's Yolo AI models ?
-15. How deploy AI models ?
-16. What's IDE?
+
+is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. By design, C's features cleanly reflect the capabilities of the targeted CPUs. It has found lasting use in operating systems, device drivers, protocol stacks, though decreasingly for application software.[7] C is commonly used on computer architectures that range from the largest supercomputers to the smallest microcontrollers and embedded systems.
+
+   
+
+11. Compairsion C/C++ with Python Language?
+12. What's computer vision?
+13. What's lable tools?
+14. What's labelImg tools?
+15. What's Yolo AI models ?
+16. How deploy AI models ?
+17. What's IDE?
 
 
 
