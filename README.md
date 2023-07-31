@@ -1,4 +1,4 @@
-# training
+-# training
 Training for first job: 
 
 1. Searching about component of computer
@@ -80,7 +80,34 @@ C is middel-level language
 
 
 12. What's computer vision?
+
+Images and videos will be put into a computer for processing (the computer here can be a PC, laptop, IoT device, smartphone, camera... whatever has computing power). Computer Vision can currently do the following:
+
+Identify objects (Identify)
+
+Object Tracking (Track)
+
+Measurement (Measure)
+
+Detect object (Detect)
+
+Classify objects (Classify)
+
+
+
+
+
+
+
+
 13. What's lable tools?
+
+that tool where you can idenity object or detail form that you can detecth coordinates of your object on the picture 
+
+
+
+
+
 14. What's labelImg tools?
 15. What's Yolo AI models ?
 16. How deploy AI models ?
