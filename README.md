@@ -63,6 +63,17 @@ is a general-purpose computer programming language. It was created in the 1970s 
    
 
 11. Compairsion C/C++ with Python Language?
+
+
+
+  accessibility  - python use open source code with large area and forum for user to disscussing and chatting
+                  - C also use open source code but with smaller forum and inviroment
+
+
+
+
+
+
 12. What's computer vision?
 13. What's lable tools?
 14. What's labelImg tools?
