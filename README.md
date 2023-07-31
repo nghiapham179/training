@@ -71,6 +71,7 @@ C is middel-level language
                   - C also use open source code but with smaller forum and inviroment
 
  flexibility - python provide speed effection and easy to learn and give multy platfom and open source ability to develop
+            - for some project that intergrate with microsoft some people use C
  
 -
 
