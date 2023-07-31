@@ -109,10 +109,42 @@ that tool where you can idenity object or detail form that you can detecth coord
 
 
 14. What's labelImg tools?
-15. What's Yolo AI models ?
-16. How deploy AI models ?
-17. What's IDE?
 
+
+
+LabelImg is a free, open source tool for graphically labeling images. It’s written in Python and uses QT for its graphical interface. It’s an easy, free way to label a few hundred images to try out your next object detection project.
+
+
+
+
+
+15. What's Yolo AI models ?
+ 
+YOLO model is a deep learning model for fast object detection. It is a single stage detector that combines the problem of drawing bounding boxes and identifying class labels in one end-to-end differentiable network1.  
+
+
+
+
+
+
+17. How deploy AI models ?
+
+Prepare a model before you deploy yolo
+
+Create a GitHub repository for the model
+
+Add configuration files to deploy yolo via Syndcai
+
+Test the model locally
+
+Deploy yolo
+
+
+18. What's IDE?
+
+
+Integrated Development Environment is a software to coding build and compile then run source code 
+otherwise IDE can help you dectecing bug fixing bug 
 
 
 Deadline : 1/8/2023
