@@ -146,6 +146,12 @@ Deploy yolo
 Integrated Development Environment is a software to coding build and compile then run source code 
 otherwise IDE can help you dectecing bug fixing bug 
 
+19. What is anaconda?
+
+20. What is package in python?
+
+21. What is CUDA?
+
 
 Deadline : 1/8/2023
 
