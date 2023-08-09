@@ -148,9 +148,22 @@ otherwise IDE can help you dectecing bug fixing bug
 
 19. What is anaconda?
 
+Anaconda is a free and open-source distribution of the Python and R programming languages for scientific computing (data science, machine learning applications, large-scale data processing, predictive analytics, etc.), that aims to simplify package management and deployment.
+
+
+
 20. What is package in python?
 
-21. What is CUDA?
+
+
+In Python, a package is a collection of modules. A module is a file that contains Python code. Packages are used to organize code and make it easier to find and use.
+
+and containt file with _init_.py
+
+22. What is CUDA?
+
+
+CUDA (Compute Unified Device Architecture) is a parallel computing platform and application programming interface (API) developed by NVIDIA for general computing on its own GPUs (graphics processing units). CUDA enables developers to speed up compute-intensive applications by harnessing the power of GPUs for the parallelizable part of the computation
 
 
 Deadline : 1/8/2023
